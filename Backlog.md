@@ -1,1 +1,1 @@
-- MediatR и PipelineBehavior
+- ~~MediatR и PipelineBehavior~~
