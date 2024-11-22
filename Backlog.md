@@ -1,1 +1,3 @@
 - ~~MediatR и PipelineBehavior~~
+- composer.json и composer.lock отличия
+- 
